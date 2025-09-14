@@ -27,16 +27,16 @@
 
 ## 🛠️ Tech Stack
 
-### ☁️ Cloud & Data (one-line)
+### ☁️ Cloud & Data
 ![AWS](https://img.shields.io/badge/-AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white) ![Glue](https://img.shields.io/badge/-AWS%20Glue-FF9900?style=for-the-badge&logo=awslambda&logoColor=white) ![Redshift](https://img.shields.io/badge/-AWS%20Redshift-8C4FFF?style=for-the-badge&logo=amazonredshift&logoColor=white) ![Athena](https://img.shields.io/badge/-AWS%20Athena-232F3E?style=for-the-badge&logo=amazonaws&logoColor=orange) ![S3](https://img.shields.io/badge/-Amazon%20S3-569A31?style=for-the-badge&logo=amazons3&logoColor=white) ![Lambda](https://img.shields.io/badge/-AWS%20Lambda-FF9900?style=for-the-badge&logo=awslambda&logoColor=white)
 
-### 🔥 Big Data & Processing (one-line)
+### 🔥 Big Data & Processing
 ![PySpark](https://img.shields.io/badge/-PySpark-FF7F0E?style=for-the-badge&logo=apachespark&logoColor=white) ![Spark](https://img.shields.io/badge/-Apache%20Spark-E25A1C?style=for-the-badge&logo=apachespark&logoColor=white)
 
 ### 💾 Databases (one-line)
 ![SQL](https://img.shields.io/badge/-SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white)
 
-### 💻 Programming & Dev Tools (one-line)
+### 💻 Programming & Dev Tools
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=for-the-badge&logo=python&logoColor=white) ![Git](https://img.shields.io/badge/-Git-F05032?style=for-the-badge&logo=git&logoColor=white) ![GitHub Actions](https://img.shields.io/badge/-GitHub%20Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white)
 
 ---
