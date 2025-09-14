@@ -43,20 +43,17 @@
 
 ## 📂 Featured Projects
 
-**1) Data Lakehouse on AWS**  
-_S3 → Glue (ETL) → Redshift_  
-- Ingest raw CSV/JSON into S3, transform with Glue jobs (PySpark), save curated tables in Redshift for BI.  
-- Implemented partitioning, schema evolution handling, and incremental loads.
+**📦 Shipment Tracking Data Engineering Pipeline**  
+_S3 → Glue (ETL) → Redshift → Step Functions → CloudWatch/SNS_  
+ETL pipeline on AWS to ingest shipment tracking data from APIs, transform with Glue (PySpark), load into Redshift, and automate using Step Functions & EventBridge with monitoring via CloudWatch/SNS.  
 
-**2) Real-Time Log Analysis (PoC)**  
-_Kafka → Spark Streaming → S3 → Athena_  
-- Stream ingestion with Kafka, Spark Structured Streaming for preprocessing, write to S3 (delta/parquet), query via Athena for near real-time dashboards.
+**✈️ Airline Data Engineering Pipeline**  
+_RDS → S3 → Glue (ETL) → Redshift_  
+Built AWS pipelines to ingest booking & passenger data from RDS into S3, process with Glue (PySpark), and load into Redshift with summary tables for booking trends, delays & profitability.  
 
-**3) Batch Historical Processing**  
-(Sqoop → Spark → Redshift/Hive)  
-- Migrate legacy RDBMS data into Delta/Parquet files, run large-scale transformations in Spark, optimize joins and window operations for reporting.
-
-> Note: If you want, I can convert these into concrete repo examples (notebooks, Terraform + CloudFormation infra, Glue job scripts).
+**💰 Financial Transactions Pipeline**  
+_RDS → S3 → Glue (ETL) → Redshift_  
+Developed AWS ETL pipelines to process financial transactions, clean & validate with Glue (PySpark), and load into Redshift, generating daily summaries for revenue, expenses & reconciliation.
 
 ---
 
